@@ -35,7 +35,3 @@ A simple chatbot built using React that performs utility tasks like flipping a c
 2. Event handling
 3. Building interactive apps
 4. Logic implementation
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/roshansharma9379
-- Email: roshansharma9379@gmail.com
